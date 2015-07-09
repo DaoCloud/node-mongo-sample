@@ -1,0 +1,12 @@
+{
+  "name": "docker-node",
+  "private": true,
+  "version": "0.0.1",
+  "description": "node.js hello world",
+  "author": "sakeven",
+  "dependencies": {
+    "express": "3.2.4",
+    "mongoose": "4.0",
+    "moment": "*"
+  }
+}
